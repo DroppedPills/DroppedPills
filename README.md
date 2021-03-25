@@ -4,4 +4,4 @@
 ! 🇬🇧 British.
 # 📝 Interested in PHP & C++.
 ```
-<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/782665455587557417/801790274112061440/CyberIllusion.png?width=950&height=204"/>
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/813776243043729438/824448227511762954/images_73.jpeg"/>
